@@ -1,9 +1,15 @@
 .title {
+    background-color: blanchedalmond;
     font-size: 50px;
     color: brown;
+    text-align: center;
+    display: inline-block;
+    padding: 0 50px;
+    margin: 10px auto 10px 500px;
 }
 li {
     font-family: "Times New Roman", sans-serif;
+    text-align: left;
 }
 
 em {
@@ -15,3 +21,16 @@ a {
     font-weight: bold;
 }
 
+img {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}   
+
+.front {
+    background-color: aliceblue;
+    text-align: center;
+    padding: 8px;
+    margin: 8px 0px;
+}
