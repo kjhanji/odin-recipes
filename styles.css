@@ -1,0 +1,17 @@
+.title {
+    font-size: 50px;
+    color: brown;
+}
+li {
+    font-family: "Times New Roman", sans-serif;
+}
+
+em {
+    color: brown;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bold;
+}
+
